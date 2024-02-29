@@ -1,1 +1,1 @@
-console.log("Olá mundo! Aula 2, teste");localStorage
+console.log("Olá mundo! Aula 2, teste");
